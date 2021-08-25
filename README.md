@@ -12,6 +12,7 @@ Websites:
 Android Apps:
 - Initracker: https://play.google.com/store/apps/details?id=first.example.initracker&hl=en_US&gl=US
 - Whereshouldieat: https://play.google.com/store/apps/details?id=com.scappworks.whereshouldieat&hl=en_US&gl=US
+- WeeklyPlanner: https://play.google.com/console/u/0/developers/5985519962916924602/app/4975501249908825964/app-dashboard?timespan=thirtyDays
 
 Games:
 - Hamburger Time: https://scappworks.itch.io/hamburger-time
