@@ -6,6 +6,7 @@ I'm using this github to accomplish 2 things:
 I hope this makes it simple enough to find anything of mine that you are looking for!
 
 Websites:
+- My website: https://scottcurry.dev/ (made with React!)
 - Private Events: https://salty-stream-72127.herokuapp.com/
 - Members Only: https://arcane-sands-30651.herokuapp.com/
 
